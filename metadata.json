@@ -1,0 +1,6 @@
+{
+  "name": "LifeHub – Smart Personal Dashboard",
+  "description": "A modern all-in-one personal productivity desktop app with tasks, notes, calendar, expenses, habits, goals, journal, focus timer, and OOP JavaFX source code exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
